@@ -1,4 +1,5 @@
 <a href="https://www.instagram.com/geun0._.cps/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgy121&show_icons=true&theme=radical)
 <!--
 **hgy121/hgy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
